@@ -9,4 +9,4 @@ if (sx == "C"):
 else:
   pass
 
-st.write("Hasil konversi dari ", x, sx, " adalah...", sy)
+st.write("Hasil konversi dari ",x,sx, " adalah...", sy)
